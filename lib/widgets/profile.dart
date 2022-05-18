@@ -14,7 +14,7 @@ class Profile extends StatelessWidget {
       ),
       body: Container(
         height: 250,
-        child: custom_text_bold(text: "Hello!",size: 14 ,color: Colors.amber ),
+        child: custom_text_bold(text: "Profile Page(not in use already)!",size: 14 ,color: Colors.amber ),
       ),
     );
   }

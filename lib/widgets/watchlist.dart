@@ -14,7 +14,7 @@ class Watchlist extends StatelessWidget {
       ),
       body: Container(
         height: 250,
-        child: custom_text_bold(text: "Hello!",size: 14 ,color: Colors.amber ),
+        child: custom_text_bold(text: "This will be Watchlist Page!",size: 14 ,color: Colors.amber ),
       ),
     );
   }
