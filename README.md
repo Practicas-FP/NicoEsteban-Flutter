@@ -1,16 +1,21 @@
-# movies_app_flutter
+- _**Autor**: Nicolás Esteban_
+- _**Fecha**: mayo/2022_
 
-A new Flutter project.
+# [Proyecto en desarrollo, no finalizado.]
 
-## Getting Started
+## moviesApp [Flutter]
+Este proyecto forma parte de una serie de proyectos que he realizado durante mi periodo de prácticas FCT en **Accenture**.
+El proyecto consiste en una aplicación móvil multiplataforma de películas en la cual el usuario puede encontrar informacion relacionada con los últimos estrenos, películas populares últimamente y una lista con las películas mejor valoradas.
 
-This project is a starting point for a Flutter application.
+## Información del Proyecto:
+- Está desarrollado utilizando **Flutter**, un framework para desarrollo móvil multiplataforma compatible con Android, iOS, Web y Desktop.
+- La información de las películas es obtenida de la API [TMDB](themoviedb.org).
+- La gestión de la autenticación de los usuarios (inicio de sesión y registro) ha sido realizada con [Firebase Authentication](https://firebase.google.com).
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Captura de pantalla 2022-04-28 161010](https://user-images.githubusercontent.com/43449804/167816160-fd53b130-cacd-426c-80a4-8cd85ad33a5a.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
