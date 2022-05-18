@@ -14,7 +14,9 @@ El proyecto consiste en una aplicación móvil multiplataforma de películas en 
 
 ## Screenshots:
 
-![Captura de pantalla 2022-04-28 161010](https://user-images.githubusercontent.com/43449804/167816160-fd53b130-cacd-426c-80a4-8cd85ad33a5a.png)
+![Captura de pantalla 2022-04-28 161010](https://user-images.githubusercontent.com/43449804/169002772-5485dce6-2852-4b9d-938d-eaf3df1d2e7b.png)
+
+
 
 
 
