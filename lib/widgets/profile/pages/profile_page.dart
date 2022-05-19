@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
+import 'package:fluttertoast/fluttertoast.dart';
 import '../../../model/user/user.dart';
 import '../../../model/user/user_data.dart';
 import '../widgets/display_image_widget.dart';
@@ -44,6 +45,9 @@ class _ProfilePageState extends State<ProfilePage> {
                   ))),
           InkWell(
               onTap: () {
+
+
+
                 navigateSecondPage(EditImagePage());
               },
               child: DisplayImage(

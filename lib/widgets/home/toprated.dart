@@ -16,7 +16,6 @@ class TopRatedMovies extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            //Const?---------------------------------------------------
             const custom_text_normal(
               text: 'Top Rated Movies',
               color: Colors.white,
