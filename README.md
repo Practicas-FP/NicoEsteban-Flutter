@@ -5,6 +5,7 @@
 
 ## moviesApp [Flutter]
 Este proyecto forma parte de una serie de proyectos que he realizado durante mi periodo de prácticas FCT.
+
 El proyecto consiste en una aplicación móvil multiplataforma de películas en la cual el usuario puede encontrar informacion relacionada con los últimos estrenos, películas populares últimamente y una lista con las películas mejor valoradas.
 
 ## Información del Proyecto:
